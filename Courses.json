@@ -1,0 +1,32 @@
+[
+    {
+        "title": "SwiftUI",
+        "description": "SwiftUI helps you build great-looking apps across all Apple platforms with the power of Swift — and as little code as possible. ",
+        "imageName": "swiftUI"
+    },
+    {
+        "title": "Angular",
+        "description": "Angular is a platform for building mobile and desktop web applications. Join the community of millions of developers who build compelling user interfaces",
+        "imageName": "angular"
+    },
+    {
+        "title": "React",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. ",
+        "imageName": "react"
+    },
+    {
+        "title": "Java",
+        "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+        "imageName": "java"
+    },
+    {
+        "title": "C++",
+        "description": "C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes",
+        "imageName": "cpp"
+    },
+    {
+        "title": "Python",
+        "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation.",
+        "imageName": "python"
+    },
+]
